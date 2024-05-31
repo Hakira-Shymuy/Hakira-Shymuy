@@ -4,7 +4,7 @@ I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere 
 
 #### About Me
 - Wordpress Developer (here and there) for around 8 Years
-- Developer at [Automatic.css](https://automaticcss.com/) in [Frames](https://getframes.io)
+- Developer at [Automatic.css](https://automaticcss.com/)
 - Love Javascript :heart_eyes:
 
 #### Preferred frameworks, languages, bundles
