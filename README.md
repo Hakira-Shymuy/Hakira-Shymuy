@@ -18,6 +18,7 @@ I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere 
 - [Vue.JS](https://vuejs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Vitest](https://vitest.dev/)
+- [NestJS](https://nestjs.com/)
 
 
 
