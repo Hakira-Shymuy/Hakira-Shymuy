@@ -4,7 +4,7 @@ I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere 
 
 #### About Me
 - Wordpress Developer (here and there) for around 8 Years
-- Developer at [Automatic.css](https://automaticcss.com/)
+- Developer at [Digital Gravy](https://digitalgravy.co/)
 - Love Javascript :heart_eyes:
 
 #### Preferred frameworks, languages, bundles
