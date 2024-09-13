@@ -8,19 +8,9 @@ I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere 
 - Love Javascript :heart_eyes:
 
 #### Preferred frameworks, languages, bundles
-- Vanilla JS
-- Vue
+- JS
 - SCSS
-- WebPack
 - Tailwind
-
-#### Learning
-- [Vue.JS](https://vuejs.org/)
+- React
 - [Typescript](https://www.typescriptlang.org/)
-- [Vitest](https://vitest.dev/)
 - [NestJS](https://nestjs.com/)
-
-
-
-#### Most Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakira-Shymuy)](https://github.com/Hakira-Shymuy/github-readme-stats)
