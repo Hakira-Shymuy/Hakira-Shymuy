@@ -1,6 +1,6 @@
 # Hi! I'm Nuno, aka Hakira
 
-I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere :smile:
+I'm a self-taught passionate Portuguese Frontend developer, living somewhere :smile:
 
 #### About Me
 - Wordpress Developer (here and there) for around 8 Years
@@ -12,5 +12,7 @@ I'm a self-taught passionate FrontEnd developer from Portugal, living somewhere 
 - SCSS
 - Tailwind
 - React
-- [Typescript](https://www.typescriptlang.org/)
-- [NestJS](https://nestjs.com/)
+- Vue
+- Typescript
+- NestJS
+- Laravel
