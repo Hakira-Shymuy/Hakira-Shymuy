@@ -1,6 +1,6 @@
 # Hi! I'm Nuno, aka Hakira
 
-I'm a self-taught passionate Portuguese Frontend developer, living somewhere :smile:
+I'm a self-taught passionate developer, living somewhere :smile:
 
 #### About Me
 - Wordpress Developer (here and there) for around 8 Years
