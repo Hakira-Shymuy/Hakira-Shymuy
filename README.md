@@ -3,7 +3,7 @@
 I'm a self-taught passionate developer, living somewhere :smile:
 
 #### About Me
-- Wordpress Developer (here and there) for around 8 Years
+- Wordpress Developer (here and there) for around 10 Years
 - Love Javascript :heart_eyes:
 
 #### Preferred frameworks, languages, bundles
